@@ -1,0 +1,1126 @@
+[4968:4724:0826/173115.722:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[4968:4724:0826/173115.722:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2309914, parent pid: 11632
+[10360:2664:0826/173115.753:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[10360:2664:0826/173115.753:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2309914, parent pid: 4968
+[4968:4724:0826/173115.753:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[4968:4724:0826/173115.753:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[4968:4724:0826/173115.753:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[4968:4724:0826/173115.753:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[4968:4724:0826/173115.753:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[4968:4724:0826/173115.753:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[4968:4724:0826/173115.753:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[4968:4724:0826/173115.753:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[4968:528:0826/173115.753:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[11948:2784:0826/173115.785:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[11948:2784:0826/173115.785:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2309914, parent pid: 4968
+[8352:6072:0826/173115.816:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[8352:6072:0826/173115.816:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2309914, parent pid: 11948
+[11948:2784:0826/173115.816:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[11948:2784:0826/173115.816:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[11948:2784:0826/173115.816:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[11948:2784:0826/173115.816:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[11948:2784:0826/173115.816:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11948:2784:0826/173115.816:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11948:2784:0826/173115.816:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[11948:2784:0826/173115.816:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[11948:2784:0826/173115.816:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[11948:10624:0826/173130.535:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[11948:2784:0826/173130.535:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[11948:2128:0826/173130.535:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[11948:2784:0826/173130.535:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[4968:528:0826/173130.535:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[4968:4724:0826/173130.535:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[8352:6072:0826/173130.535:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[10360:2664:0826/173130.550:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[3276:7840:0826/223130.706:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[3276:7840:0826/223130.706:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2327929, parent pid: 11632
+[2264:5768:0826/223130.722:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[2264:5768:0826/223130.722:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2327929, parent pid: 3276
+[3276:7840:0826/223130.722:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[3276:7840:0826/223130.722:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[3276:7840:0826/223130.722:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[3276:7840:0826/223130.722:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[3276:7840:0826/223130.722:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[3276:7840:0826/223130.722:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[3276:7840:0826/223130.722:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[3276:7840:0826/223130.738:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[3276:10144:0826/223130.738:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[9672:11728:0826/223130.753:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[9672:11728:0826/223130.753:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2327929, parent pid: 3276
+[11764:4288:0826/223130.785:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[11764:4288:0826/223130.785:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2327929, parent pid: 9672
+[9672:11728:0826/223130.785:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[9672:11728:0826/223130.785:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[9672:11728:0826/223130.785:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[9672:11728:0826/223130.785:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[9672:11728:0826/223130.785:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9672:11728:0826/223130.785:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9672:11728:0826/223130.785:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[9672:11728:0826/223130.785:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[9672:11728:0826/223130.785:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[9672:6056:0826/223147.675:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[9672:11728:0826/223147.675:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[9672:1220:0826/223147.675:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[9672:11728:0826/223147.675:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[3276:10144:0826/223147.675:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[3276:7840:0826/223147.675:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[11764:4288:0826/223147.675:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[2264:5768:0826/223147.691:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[9172:8356:0827/033147.831:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[9172:8356:0827/033147.847:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2345946, parent pid: 11632
+[11200:9612:0827/033147.863:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[11200:9612:0827/033147.863:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2345946, parent pid: 9172
+[9172:8356:0827/033147.863:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[9172:8356:0827/033147.878:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[9172:8356:0827/033147.878:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[9172:8356:0827/033147.878:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[9172:8356:0827/033147.878:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9172:8356:0827/033147.878:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9172:8356:0827/033147.878:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[9172:8356:0827/033147.878:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[9172:10616:0827/033147.878:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[1616:7008:0827/033147.910:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[1616:7008:0827/033147.910:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2345946, parent pid: 9172
+[2512:7480:0827/033147.925:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[2512:7480:0827/033147.925:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2345946, parent pid: 1616
+[1616:7008:0827/033147.941:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[1616:7008:0827/033147.941:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[1616:7008:0827/033147.941:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[1616:7008:0827/033147.941:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[1616:7008:0827/033147.941:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[1616:7008:0827/033147.941:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[1616:7008:0827/033147.941:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[1616:7008:0827/033147.941:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[1616:7008:0827/033147.941:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[1616:5960:0827/033203.831:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[1616:7008:0827/033203.831:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[1616:2896:0827/033203.831:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[1616:7008:0827/033203.831:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[9172:10616:0827/033203.831:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[9172:8356:0827/033203.831:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[2512:7480:0827/033203.831:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[11200:9612:0827/033203.847:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[4580:3788:0827/083203.986:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[4580:3788:0827/083203.986:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2363962, parent pid: 11632
+[6452:4480:0827/083204.018:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[6452:4480:0827/083204.018:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2363962, parent pid: 4580
+[4580:3788:0827/083204.018:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[4580:3788:0827/083204.018:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[4580:3788:0827/083204.018:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[4580:3788:0827/083204.018:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[4580:3788:0827/083204.018:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[4580:3788:0827/083204.033:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[4580:3788:0827/083204.033:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[4580:3788:0827/083204.033:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[4580:6292:0827/083204.033:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[6044:9272:0827/083204.049:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[6044:9272:0827/083204.049:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2363962, parent pid: 4580
+[10180:10676:0827/083204.080:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[10180:10676:0827/083204.080:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2363962, parent pid: 6044
+[6044:9272:0827/083204.080:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[6044:9272:0827/083204.080:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[6044:9272:0827/083204.080:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[6044:9272:0827/083204.080:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[6044:9272:0827/083204.080:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[6044:9272:0827/083204.080:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[6044:9272:0827/083204.080:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[6044:9272:0827/083204.080:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[6044:9272:0827/083204.080:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[6044:7328:0827/083208.236:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[6044:9272:0827/083208.236:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[6044:4776:0827/083208.236:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[6044:9272:0827/083208.236:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[4580:6292:0827/083208.236:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[4580:3788:0827/083208.236:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[10180:10676:0827/083208.236:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[6452:4480:0827/083208.252:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[10756:7796:0827/133208.377:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[10756:7796:0827/133208.377:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2381967, parent pid: 11632
+[11404:520:0827/133208.408:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[11404:520:0827/133208.408:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2381967, parent pid: 10756
+[10756:7796:0827/133208.408:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[10756:7796:0827/133208.408:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[10756:7796:0827/133208.408:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[10756:7796:0827/133208.408:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[10756:7796:0827/133208.408:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10756:7796:0827/133208.408:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10756:7796:0827/133208.408:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[10756:7796:0827/133208.408:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[10756:10808:0827/133208.408:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[10248:6476:0827/133208.439:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[10248:6476:0827/133208.439:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2381967, parent pid: 10756
+[10912:11296:0827/133208.455:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[10912:11296:0827/133208.455:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2381967, parent pid: 10248
+[10248:6476:0827/133208.455:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[10248:6476:0827/133208.455:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[10248:6476:0827/133208.455:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[10248:6476:0827/133208.455:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[10248:6476:0827/133208.471:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10248:6476:0827/133208.471:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10248:6476:0827/133208.471:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[10248:6476:0827/133208.471:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[10248:6476:0827/133208.471:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[10248:8348:0827/133214.236:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[10248:6476:0827/133214.236:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[10248:10220:0827/133214.236:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[10248:6476:0827/133214.236:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[10756:10808:0827/133214.236:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[10756:7796:0827/133214.236:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[10912:11296:0827/133214.236:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[11404:520:0827/133214.252:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[4560:2020:0827/183214.396:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[4560:2020:0827/183214.396:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2399973, parent pid: 11632
+[11480:3844:0827/183214.428:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x278,0x27c,0x280,0x254,0x284,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[11480:3844:0827/183214.428:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2399973, parent pid: 4560
+[4560:2020:0827/183214.428:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[4560:2020:0827/183214.428:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[4560:2020:0827/183214.428:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[4560:2020:0827/183214.428:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[4560:2020:0827/183214.428:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[4560:2020:0827/183214.428:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[4560:2020:0827/183214.428:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[4560:2020:0827/183214.428:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[4560:10564:0827/183214.428:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[11432:9072:0827/183214.459:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[11432:9072:0827/183214.459:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2399973, parent pid: 4560
+[3216:3548:0827/183214.490:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x1f8,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[3216:3548:0827/183214.490:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2399973, parent pid: 11432
+[11432:9072:0827/183214.490:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[11432:9072:0827/183214.490:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[11432:9072:0827/183214.490:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[11432:9072:0827/183214.490:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[11432:9072:0827/183214.490:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11432:9072:0827/183214.490:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11432:9072:0827/183214.490:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[11432:9072:0827/183214.490:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[11432:9072:0827/183214.490:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[11432:384:0827/183242.349:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[11432:9072:0827/183242.349:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[11432:9292:0827/183242.349:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[11432:9072:0827/183242.349:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[4560:10564:0827/183242.349:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[4560:2020:0827/183242.349:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[3216:3548:0827/183242.349:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[11480:3844:0827/183242.365:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[8864:760:0827/233242.506:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[8864:760:0827/233242.506:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2418001, parent pid: 11632
+[7180:11984:0827/233242.537:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[7180:11984:0827/233242.537:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2418001, parent pid: 8864
+[8864:760:0827/233242.537:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[8864:760:0827/233242.537:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[8864:760:0827/233242.537:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[8864:760:0827/233242.537:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[8864:760:0827/233242.537:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8864:760:0827/233242.537:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8864:760:0827/233242.537:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[8864:760:0827/233242.537:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[8864:3940:0827/233242.553:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[11800:5244:0827/233242.568:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[11800:5244:0827/233242.568:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2418001, parent pid: 8864
+[4052:5896:0827/233242.599:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[4052:5896:0827/233242.599:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2418001, parent pid: 11800
+[11800:5244:0827/233242.599:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[11800:5244:0827/233242.599:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[11800:5244:0827/233242.599:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[11800:5244:0827/233242.599:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[11800:5244:0827/233242.599:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11800:5244:0827/233242.599:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11800:5244:0827/233242.599:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[11800:5244:0827/233242.599:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[11800:5244:0827/233242.599:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[11800:1704:0827/233259.068:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[11800:5244:0827/233259.068:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[11800:12268:0827/233259.068:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[11800:5244:0827/233259.068:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[8864:3940:0827/233259.068:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[8864:760:0827/233259.068:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[4052:5896:0827/233259.068:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[7180:11984:0827/233259.084:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[6904:12032:0828/043259.224:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[6904:12032:0828/043259.224:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2436018, parent pid: 11632
+[9244:7780:0828/043259.256:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[9244:7780:0828/043259.256:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2436018, parent pid: 6904
+[6904:12032:0828/043259.256:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[6904:12032:0828/043259.256:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[6904:12032:0828/043259.256:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[6904:12032:0828/043259.256:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[6904:12032:0828/043259.256:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[6904:12032:0828/043259.256:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[6904:12032:0828/043259.256:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[6904:12032:0828/043259.256:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[6904:2232:0828/043259.256:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[11348:10832:0828/043259.287:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[11348:10832:0828/043259.287:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2436018, parent pid: 6904
+[11864:5012:0828/043259.318:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[11864:5012:0828/043259.318:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2436018, parent pid: 11348
+[11348:10832:0828/043259.318:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[11348:10832:0828/043259.318:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[11348:10832:0828/043259.318:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[11348:10832:0828/043259.318:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[11348:10832:0828/043259.318:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11348:10832:0828/043259.318:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11348:10832:0828/043259.318:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[11348:10832:0828/043259.318:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[11348:10832:0828/043259.318:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[11348:1476:0828/043315.631:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[11348:10832:0828/043315.631:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[11348:7688:0828/043315.631:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[11348:10832:0828/043315.631:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[6904:2232:0828/043315.631:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[6904:12032:0828/043315.631:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[11864:5012:0828/043315.631:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[9244:7780:0828/043315.646:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[12200:9640:0828/093315.787:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[12200:9640:0828/093315.787:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2454034, parent pid: 11632
+[8488:2848:0828/093315.818:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[8488:2848:0828/093315.818:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2454034, parent pid: 12200
+[12200:9640:0828/093315.818:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[12200:9640:0828/093315.818:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[12200:9640:0828/093315.818:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[12200:9640:0828/093315.818:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[12200:9640:0828/093315.818:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[12200:9640:0828/093315.818:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[12200:9640:0828/093315.818:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[12200:9640:0828/093315.818:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[12200:11836:0828/093315.818:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[8108:9008:0828/093315.849:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[8108:9008:0828/093315.849:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2454034, parent pid: 12200
+[9412:7876:0828/093315.865:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x258,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[9412:7876:0828/093315.865:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2454034, parent pid: 8108
+[8108:9008:0828/093315.865:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[8108:9008:0828/093315.865:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[8108:9008:0828/093315.865:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[8108:9008:0828/093315.865:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[8108:9008:0828/093315.865:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8108:9008:0828/093315.865:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8108:9008:0828/093315.865:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[8108:9008:0828/093315.865:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[8108:9008:0828/093315.865:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[8108:8288:0828/093331.115:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[8108:9008:0828/093331.115:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[8108:9372:0828/093331.115:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[8108:9008:0828/093331.115:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[12200:11836:0828/093331.115:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[12200:9640:0828/093331.115:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[9412:7876:0828/093331.115:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[8488:2848:0828/093331.131:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[7944:1228:0828/143331.250:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[7944:1228:0828/143331.250:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2472049, parent pid: 11632
+[5756:12124:0828/143331.281:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[5756:12124:0828/143331.281:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2472050, parent pid: 7944
+[7944:1228:0828/143331.281:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[7944:1228:0828/143331.281:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[7944:1228:0828/143331.281:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[7944:1228:0828/143331.281:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[7944:1228:0828/143331.281:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[7944:1228:0828/143331.281:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[7944:1228:0828/143331.281:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[7944:1228:0828/143331.281:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[7944:6348:0828/143331.281:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[9948:1216:0828/143331.313:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[9948:1216:0828/143331.313:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2472050, parent pid: 7944
+[11068:7780:0828/143331.328:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[11068:7780:0828/143331.328:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2472050, parent pid: 9948
+[9948:1216:0828/143331.328:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[9948:1216:0828/143331.328:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[9948:1216:0828/143331.328:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[9948:1216:0828/143331.328:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[9948:1216:0828/143331.328:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9948:1216:0828/143331.328:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9948:1216:0828/143331.328:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[9948:1216:0828/143331.344:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[9948:1216:0828/143331.344:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[9948:2064:0828/143345.703:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[9948:1216:0828/143345.703:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[9948:8296:0828/143345.703:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[9948:1216:0828/143345.703:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[7944:6348:0828/143345.703:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[7944:1228:0828/143345.703:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[11068:7780:0828/143345.703:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[5756:12124:0828/143345.719:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[8380:1476:0828/193345.844:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[8380:1476:0828/193345.844:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2490064, parent pid: 11632
+[5024:7716:0828/193345.859:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[5024:7716:0828/193345.859:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2490064, parent pid: 8380
+[8380:1476:0828/193345.859:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[8380:1476:0828/193345.859:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[8380:1476:0828/193345.859:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[8380:1476:0828/193345.859:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[8380:1476:0828/193345.859:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8380:1476:0828/193345.859:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8380:1476:0828/193345.859:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[8380:1476:0828/193345.859:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[8380:6436:0828/193345.859:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[8080:2068:0828/193345.891:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[8080:2068:0828/193345.891:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2490064, parent pid: 8380
+[7836:9544:0828/193345.906:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[7836:9544:0828/193345.906:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2490064, parent pid: 8080
+[8080:2068:0828/193345.906:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[8080:2068:0828/193345.906:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[8080:2068:0828/193345.906:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[8080:2068:0828/193345.906:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[8080:2068:0828/193345.906:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8080:2068:0828/193345.922:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8080:2068:0828/193345.922:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[8080:2068:0828/193345.922:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[8080:2068:0828/193345.922:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[8080:8068:0828/193350.219:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[8080:2068:0828/193350.219:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[8080:3516:0828/193350.219:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[8080:2068:0828/193350.219:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[8380:6436:0828/193350.219:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[8380:1476:0828/193350.219:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[7836:9544:0828/193350.219:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[5024:7716:0828/193350.234:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[6424:4056:0829/003350.422:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[6424:4056:0829/003350.422:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2508069, parent pid: 11632
+[4848:268:0829/003350.453:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[4848:268:0829/003350.453:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2508069, parent pid: 6424
+[6424:4056:0829/003350.453:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[6424:4056:0829/003350.453:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[6424:4056:0829/003350.453:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[6424:4056:0829/003350.453:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[6424:4056:0829/003350.453:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[6424:4056:0829/003350.453:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[6424:4056:0829/003350.453:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[6424:4056:0829/003350.453:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[6424:11852:0829/003350.453:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[10492:6464:0829/003350.484:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[10492:6464:0829/003350.484:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2508069, parent pid: 6424
+[3640:11764:0829/003350.500:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[3640:11764:0829/003350.500:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2508069, parent pid: 10492
+[10492:6464:0829/003350.500:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[10492:6464:0829/003350.500:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[10492:6464:0829/003350.500:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[10492:6464:0829/003350.500:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[10492:6464:0829/003350.500:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10492:6464:0829/003350.500:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10492:6464:0829/003350.500:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[10492:6464:0829/003350.516:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[10492:6464:0829/003350.516:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[10492:9276:0829/003406.078:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[10492:6464:0829/003406.078:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[10492:11272:0829/003406.078:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[10492:6464:0829/003406.078:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[6424:11852:0829/003406.078:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[6424:4056:0829/003406.078:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[3640:11764:0829/003406.078:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[4848:268:0829/003406.094:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[8420:9336:0829/053406.203:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[8420:9336:0829/053406.203:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2526084, parent pid: 11632
+[6976:1312:0829/053406.234:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[6976:1312:0829/053406.234:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2526084, parent pid: 8420
+[8420:9336:0829/053406.234:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[8420:9336:0829/053406.234:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[8420:9336:0829/053406.234:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[8420:9336:0829/053406.234:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[8420:9336:0829/053406.234:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8420:9336:0829/053406.234:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8420:9336:0829/053406.234:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[8420:9336:0829/053406.234:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[8420:11836:0829/053406.234:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[7060:1612:0829/053406.266:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[7060:1612:0829/053406.266:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2526085, parent pid: 8420
+[3736:7816:0829/053406.297:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[3736:7816:0829/053406.297:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2526085, parent pid: 7060
+[7060:1612:0829/053406.297:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[7060:1612:0829/053406.297:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[7060:1612:0829/053406.297:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[7060:1612:0829/053406.297:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[7060:1612:0829/053406.297:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[7060:1612:0829/053406.297:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[7060:1612:0829/053406.297:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[7060:1612:0829/053406.297:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[7060:1612:0829/053406.297:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[7060:12124:0829/053422.141:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[7060:1612:0829/053422.141:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[7060:10348:0829/053422.141:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[7060:1612:0829/053422.141:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[8420:11836:0829/053422.141:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[8420:9336:0829/053422.141:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[3736:7816:0829/053422.141:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[6976:1312:0829/053422.156:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[4648:1436:0829/103422.297:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[4648:1436:0829/103422.297:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2544101, parent pid: 11632
+[8672:11672:0829/103422.328:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[8672:11672:0829/103422.328:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2544101, parent pid: 4648
+[4648:1436:0829/103422.328:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[4648:1436:0829/103422.328:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[4648:1436:0829/103422.328:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[4648:1436:0829/103422.328:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[4648:1436:0829/103422.328:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[4648:1436:0829/103422.328:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[4648:1436:0829/103422.328:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[4648:1436:0829/103422.328:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[4648:12208:0829/103422.328:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[3840:4232:0829/103422.344:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[3840:4232:0829/103422.344:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2544101, parent pid: 4648
+[9072:524:0829/103422.375:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x278,0x27c,0x280,0x254,0x284,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[9072:524:0829/103422.375:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2544101, parent pid: 3840
+[3840:4232:0829/103422.375:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[3840:4232:0829/103422.375:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[3840:4232:0829/103422.375:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[3840:4232:0829/103422.375:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[3840:4232:0829/103422.375:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[3840:4232:0829/103422.375:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[3840:4232:0829/103422.375:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[3840:4232:0829/103422.375:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[3840:4232:0829/103422.375:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[3840:2568:0829/103436.281:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[3840:4232:0829/103436.281:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[3840:7696:0829/103436.281:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[3840:4232:0829/103436.281:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[4648:12208:0829/103436.281:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[4648:1436:0829/103436.281:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[9072:524:0829/103436.281:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[8672:11672:0829/103436.297:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[5292:1076:0829/153436.422:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[5292:1076:0829/153436.422:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2562115, parent pid: 11632
+[4136:1548:0829/153436.438:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[4136:1548:0829/153436.438:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2562115, parent pid: 5292
+[5292:1076:0829/153436.438:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[5292:1076:0829/153436.438:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[5292:1076:0829/153436.438:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[5292:1076:0829/153436.438:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[5292:1076:0829/153436.438:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5292:1076:0829/153436.438:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5292:1076:0829/153436.438:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[5292:1076:0829/153436.438:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[5292:12124:0829/153436.438:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[11684:10220:0829/153436.469:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[11684:10220:0829/153436.469:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2562115, parent pid: 5292
+[8236:10892:0829/153436.500:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[8236:10892:0829/153436.500:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2562115, parent pid: 11684
+[11684:10220:0829/153436.500:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[11684:10220:0829/153436.500:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[11684:10220:0829/153436.500:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[11684:10220:0829/153436.500:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[11684:10220:0829/153436.500:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11684:10220:0829/153436.500:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11684:10220:0829/153436.500:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[11684:10220:0829/153436.500:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[11684:10220:0829/153436.500:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[11684:8664:0829/153452.297:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[11684:10220:0829/153452.297:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[11684:7600:0829/153452.297:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[11684:10220:0829/153452.297:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[5292:12124:0829/153452.297:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[5292:1076:0829/153452.297:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[8236:10892:0829/153452.297:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[4136:1548:0829/153452.314:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[3768:9260:0829/203452.474:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[3768:9260:0829/203452.474:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2580131, parent pid: 11632
+[1392:9308:0829/203452.490:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[1392:9308:0829/203452.490:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2580131, parent pid: 3768
+[3768:9260:0829/203452.505:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[3768:9260:0829/203452.505:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[3768:9260:0829/203452.505:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[3768:9260:0829/203452.505:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[3768:9260:0829/203452.505:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[3768:9260:0829/203452.505:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[3768:9260:0829/203452.505:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[3768:9260:0829/203452.505:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[3768:8252:0829/203452.505:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[6988:9748:0829/203452.537:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[6988:9748:0829/203452.537:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2580131, parent pid: 3768
+[5056:2160:0829/203452.568:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[5056:2160:0829/203452.568:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2580131, parent pid: 6988
+[6988:9748:0829/203452.568:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[6988:9748:0829/203452.568:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[6988:9748:0829/203452.568:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[6988:9748:0829/203452.568:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[6988:9748:0829/203452.568:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[6988:9748:0829/203452.568:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[6988:9748:0829/203452.568:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[6988:9748:0829/203452.568:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[6988:9748:0829/203452.568:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[6988:11852:0829/203508.459:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[6988:9748:0829/203508.459:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[6988:11604:0829/203508.459:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[6988:9748:0829/203508.459:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[3768:8252:0829/203508.459:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[3768:9260:0829/203508.459:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[5056:2160:0829/203508.459:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[1392:9308:0829/203508.474:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[5076:1544:0830/013508.615:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[5076:1544:0830/013508.615:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2598147, parent pid: 11632
+[11092:9104:0830/013508.646:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[11092:9104:0830/013508.646:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2598147, parent pid: 5076
+[5076:1544:0830/013508.646:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[5076:1544:0830/013508.646:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[5076:1544:0830/013508.646:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[5076:1544:0830/013508.646:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[5076:1544:0830/013508.646:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5076:1544:0830/013508.646:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5076:1544:0830/013508.646:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[5076:1544:0830/013508.646:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[5076:11708:0830/013508.646:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[2908:11996:0830/013508.677:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[2908:11996:0830/013508.677:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2598147, parent pid: 5076
+[6468:11972:0830/013508.693:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x278,0x27c,0x280,0x254,0x284,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[6468:11972:0830/013508.693:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2598147, parent pid: 2908
+[2908:11996:0830/013508.693:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[2908:11996:0830/013508.693:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[2908:11996:0830/013508.693:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[2908:11996:0830/013508.693:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[2908:11996:0830/013508.693:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[2908:11996:0830/013508.693:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[2908:11996:0830/013508.693:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[2908:11996:0830/013508.709:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[2908:11996:0830/013508.709:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[2908:4596:0830/013524.662:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[2908:11996:0830/013524.662:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[2908:3008:0830/013524.662:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[2908:11996:0830/013524.662:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[5076:11708:0830/013524.662:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[5076:1544:0830/013524.662:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[6468:11972:0830/013524.662:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[11092:9104:0830/013524.677:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[7984:5920:0830/063524.818:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[7984:5920:0830/063524.818:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2616163, parent pid: 11632
+[4512:9412:0830/063524.849:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[4512:9412:0830/063524.849:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2616163, parent pid: 7984
+[7984:5920:0830/063524.849:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[7984:5920:0830/063524.849:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[7984:5920:0830/063524.849:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[7984:5920:0830/063524.849:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[7984:5920:0830/063524.849:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[7984:5920:0830/063524.849:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[7984:5920:0830/063524.849:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[7984:5920:0830/063524.849:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[7984:4176:0830/063524.849:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[11300:2000:0830/063524.880:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[11300:2000:0830/063524.880:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2616163, parent pid: 7984
+[10848:1956:0830/063524.912:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x25c,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[10848:1956:0830/063524.912:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2616163, parent pid: 11300
+[11300:2000:0830/063524.912:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[11300:2000:0830/063524.912:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[11300:2000:0830/063524.912:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[11300:2000:0830/063524.912:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[11300:2000:0830/063524.912:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11300:2000:0830/063524.912:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11300:2000:0830/063524.912:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[11300:2000:0830/063524.912:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[11300:2000:0830/063524.912:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[11300:9700:0830/063544.755:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[11300:2000:0830/063544.755:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[11300:11016:0830/063544.755:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[11300:2000:0830/063544.755:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[7984:4176:0830/063544.755:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[7984:5920:0830/063544.755:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[10848:1956:0830/063544.771:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[4512:9412:0830/063544.771:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[3096:11492:0830/113544.927:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[3096:11492:0830/113544.927:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2634183, parent pid: 11632
+[12176:3804:0830/113544.943:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[12176:3804:0830/113544.959:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2634183, parent pid: 3096
+[3096:11492:0830/113544.959:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[3096:11492:0830/113544.959:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[3096:11492:0830/113544.959:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[3096:11492:0830/113544.959:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[3096:11492:0830/113544.959:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[3096:11492:0830/113544.959:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[3096:11492:0830/113544.959:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[3096:11492:0830/113544.959:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[3096:10640:0830/113544.959:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[4492:4480:0830/113544.974:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[4492:4480:0830/113544.974:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2634183, parent pid: 3096
+[9152:1148:0830/113545.005:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x278,0x27c,0x280,0x254,0x284,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[9152:1148:0830/113545.005:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2634183, parent pid: 4492
+[4492:4480:0830/113545.005:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[4492:4480:0830/113545.005:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[4492:4480:0830/113545.005:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[4492:4480:0830/113545.005:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[4492:4480:0830/113545.005:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[4492:4480:0830/113545.005:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[4492:4480:0830/113545.005:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[4492:4480:0830/113545.005:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[4492:4480:0830/113545.021:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[4492:2024:0830/113600.099:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[4492:4480:0830/113600.099:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[4492:5248:0830/113600.099:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[4492:4480:0830/113600.099:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[3096:10640:0830/113600.099:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[3096:11492:0830/113600.099:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[9152:1148:0830/113600.099:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[12176:3804:0830/113600.115:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[2032:6704:0830/163600.255:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[2032:6704:0830/163600.255:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2652198, parent pid: 11632
+[7940:4540:0830/163600.271:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x258,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[7940:4540:0830/163600.271:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2652199, parent pid: 2032
+[2032:6704:0830/163600.271:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[2032:6704:0830/163600.271:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[2032:6704:0830/163600.271:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[2032:6704:0830/163600.271:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[2032:6704:0830/163600.271:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[2032:6704:0830/163600.271:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[2032:6704:0830/163600.271:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[2032:6704:0830/163600.271:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[2032:8156:0830/163600.271:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[9896:5356:0830/163600.302:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[9896:5356:0830/163600.302:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2652199, parent pid: 2032
+[7224:8716:0830/163600.334:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[7224:8716:0830/163600.334:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2652199, parent pid: 9896
+[9896:5356:0830/163600.334:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[9896:5356:0830/163600.334:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[9896:5356:0830/163600.334:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[9896:5356:0830/163600.334:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[9896:5356:0830/163600.334:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9896:5356:0830/163600.334:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9896:5356:0830/163600.334:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[9896:5356:0830/163600.334:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[9896:5356:0830/163600.334:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[9896:7776:0830/163615.302:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[9896:5356:0830/163615.302:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[9896:10188:0830/163615.302:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[9896:5356:0830/163615.302:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[2032:8156:0830/163615.302:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[2032:6704:0830/163615.302:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[7224:8716:0830/163615.302:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[7940:4540:0830/163615.318:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[8152:9836:0830/213615.474:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[8152:9836:0830/213615.474:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2670214, parent pid: 11632
+[6124:10108:0830/213615.505:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[6124:10108:0830/213615.505:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2670214, parent pid: 8152
+[8152:9836:0830/213615.505:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[8152:9836:0830/213615.505:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[8152:9836:0830/213615.505:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[8152:9836:0830/213615.505:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[8152:9836:0830/213615.505:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8152:9836:0830/213615.505:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8152:9836:0830/213615.505:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[8152:9836:0830/213615.505:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[8152:11056:0830/213615.505:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[11528:8692:0830/213615.537:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[11528:8692:0830/213615.537:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2670214, parent pid: 8152
+[3976:3880:0830/213615.568:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[3976:3880:0830/213615.568:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2670214, parent pid: 11528
+[11528:8692:0830/213615.568:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[11528:8692:0830/213615.568:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[11528:8692:0830/213615.568:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[11528:8692:0830/213615.568:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[11528:8692:0830/213615.568:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11528:8692:0830/213615.568:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11528:8692:0830/213615.568:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[11528:8692:0830/213615.568:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[11528:8692:0830/213615.568:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[11528:5028:0830/213629.755:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[11528:8692:0830/213629.755:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[11528:11404:0830/213629.755:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[11528:8692:0830/213629.755:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[8152:11056:0830/213629.755:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[8152:9836:0830/213629.755:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[3976:3880:0830/213629.755:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[6124:10108:0830/213629.771:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[5676:11832:0831/023629.990:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[5676:11832:0831/023629.990:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2688228, parent pid: 11632
+[7132:7388:0831/023630.021:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[7132:7388:0831/023630.021:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2688228, parent pid: 5676
+[5676:11832:0831/023630.021:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[5676:11832:0831/023630.021:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[5676:11832:0831/023630.021:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[5676:11832:0831/023630.021:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[5676:11832:0831/023630.021:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5676:11832:0831/023630.021:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5676:11832:0831/023630.021:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[5676:11832:0831/023630.021:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[5676:10892:0831/023630.021:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[10560:1476:0831/023630.052:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[10560:1476:0831/023630.052:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2688228, parent pid: 5676
+[9948:11064:0831/023630.084:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[9948:11064:0831/023630.084:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2688228, parent pid: 10560
+[10560:1476:0831/023630.084:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[10560:1476:0831/023630.084:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[10560:1476:0831/023630.084:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[10560:1476:0831/023630.084:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[10560:1476:0831/023630.084:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10560:1476:0831/023630.084:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10560:1476:0831/023630.084:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[10560:1476:0831/023630.084:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[10560:1476:0831/023630.084:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[10560:244:0831/023644.599:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[10560:1476:0831/023644.599:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[10560:9140:0831/023644.599:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[10560:1476:0831/023644.599:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[5676:10892:0831/023644.615:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[5676:11832:0831/023644.615:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[9948:11064:0831/023644.615:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[7132:7388:0831/023644.615:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[10896:2068:0831/073644.771:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[10896:2068:0831/073644.771:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2706243, parent pid: 11632
+[7352:3892:0831/073644.787:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[7352:3892:0831/073644.787:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2706243, parent pid: 10896
+[10896:2068:0831/073644.787:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[10896:2068:0831/073644.787:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[10896:2068:0831/073644.787:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[10896:2068:0831/073644.787:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[10896:2068:0831/073644.787:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10896:2068:0831/073644.787:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10896:2068:0831/073644.787:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[10896:2068:0831/073644.787:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[10896:1464:0831/073644.787:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[12136:900:0831/073644.818:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[12136:900:0831/073644.818:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2706243, parent pid: 10896
+[8236:3580:0831/073644.849:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[8236:3580:0831/073644.849:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2706243, parent pid: 12136
+[12136:900:0831/073644.849:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[12136:900:0831/073644.849:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[12136:900:0831/073644.849:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[12136:900:0831/073644.849:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[12136:900:0831/073644.849:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[12136:900:0831/073644.849:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[12136:900:0831/073644.849:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[12136:900:0831/073644.849:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[12136:900:0831/073644.849:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[12136:1876:0831/073712.146:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[12136:900:0831/073712.146:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[12136:6492:0831/073712.146:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[12136:900:0831/073712.146:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[10896:1464:0831/073712.146:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[10896:2068:0831/073712.146:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[8236:3580:0831/073712.146:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[7352:3892:0831/073712.162:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[5628:9280:0831/123712.318:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[5628:9280:0831/123712.318:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2724271, parent pid: 11632
+[10768:9944:0831/123712.349:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[10768:9944:0831/123712.349:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2724271, parent pid: 5628
+[5628:9280:0831/123712.349:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[5628:9280:0831/123712.349:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[5628:9280:0831/123712.349:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[5628:9280:0831/123712.349:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[5628:9280:0831/123712.349:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5628:9280:0831/123712.349:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5628:9280:0831/123712.349:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[5628:9280:0831/123712.349:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[5628:7760:0831/123712.349:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[10212:4356:0831/123712.365:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[10212:4356:0831/123712.365:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2724271, parent pid: 5628
+[1220:5728:0831/123712.396:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[1220:5728:0831/123712.396:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2724271, parent pid: 10212
+[10212:4356:0831/123712.396:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[10212:4356:0831/123712.396:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[10212:4356:0831/123712.396:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[10212:4356:0831/123712.396:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[10212:4356:0831/123712.396:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10212:4356:0831/123712.396:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10212:4356:0831/123712.396:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[10212:4356:0831/123712.396:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[10212:4356:0831/123712.396:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[10212:8424:0831/123729.162:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[10212:4356:0831/123729.162:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[10212:5076:0831/123729.162:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[10212:4356:0831/123729.162:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[5628:7760:0831/123729.162:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[5628:9280:0831/123729.162:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[1220:5728:0831/123729.162:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[10768:9944:0831/123729.177:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[10760:9264:0831/173729.334:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[10760:9264:0831/173729.334:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2742288, parent pid: 11632
+[3312:7264:0831/173729.349:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[3312:7264:0831/173729.349:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2742288, parent pid: 10760
+[10760:9264:0831/173729.365:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[10760:9264:0831/173729.365:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[10760:9264:0831/173729.365:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[10760:9264:0831/173729.365:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[10760:9264:0831/173729.365:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10760:9264:0831/173729.365:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10760:9264:0831/173729.365:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[10760:9264:0831/173729.365:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[10760:11584:0831/173729.365:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[11996:9388:0831/173729.380:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[11996:9388:0831/173729.380:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2742288, parent pid: 10760
+[4292:2168:0831/173729.412:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[4292:2168:0831/173729.412:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2742288, parent pid: 11996
+[11996:9388:0831/173729.412:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[11996:9388:0831/173729.412:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[11996:9388:0831/173729.412:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[11996:9388:0831/173729.412:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[11996:9388:0831/173729.412:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11996:9388:0831/173729.412:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11996:9388:0831/173729.412:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[11996:9388:0831/173729.412:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[11996:9388:0831/173729.412:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[11996:9448:0831/173746.380:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[11996:9388:0831/173746.380:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[11996:10196:0831/173746.380:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[11996:9388:0831/173746.380:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[10760:11584:0831/173746.380:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[10760:9264:0831/173746.380:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[4292:2168:0831/173746.380:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[3312:7264:0831/173746.396:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[5556:11248:0831/223746.537:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[5556:11248:0831/223746.537:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2760305, parent pid: 11632
+[4056:5656:0831/223746.568:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[4056:5656:0831/223746.568:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2760305, parent pid: 5556
+[5556:11248:0831/223746.568:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[5556:11248:0831/223746.568:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[5556:11248:0831/223746.568:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[5556:11248:0831/223746.568:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[5556:11248:0831/223746.568:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5556:11248:0831/223746.568:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5556:11248:0831/223746.568:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[5556:11248:0831/223746.568:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[5556:3096:0831/223746.568:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[6912:6124:0831/223746.599:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[6912:6124:0831/223746.599:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2760305, parent pid: 5556
+[3352:6184:0831/223746.615:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[3352:6184:0831/223746.615:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2760305, parent pid: 6912
+[6912:6124:0831/223746.615:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[6912:6124:0831/223746.615:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[6912:6124:0831/223746.615:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[6912:6124:0831/223746.615:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[6912:6124:0831/223746.615:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[6912:6124:0831/223746.615:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[6912:6124:0831/223746.615:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[6912:6124:0831/223746.630:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[6912:6124:0831/223746.630:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[6912:4928:0831/223802.459:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[6912:6124:0831/223802.459:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[6912:11408:0831/223802.459:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[6912:6124:0831/223802.459:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[5556:3096:0831/223802.459:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[5556:11248:0831/223802.459:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[3352:6184:0831/223802.459:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[4056:5656:0831/223802.474:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[11544:10224:0901/033802.630:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[11544:10224:0901/033802.630:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2778321, parent pid: 11632
+[12216:9464:0901/033802.646:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x258,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[12216:9464:0901/033802.646:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2778321, parent pid: 11544
+[11544:10224:0901/033802.662:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[11544:10224:0901/033802.662:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[11544:10224:0901/033802.662:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[11544:10224:0901/033802.662:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[11544:10224:0901/033802.662:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11544:10224:0901/033802.662:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[11544:10224:0901/033802.662:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[11544:10224:0901/033802.662:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[11544:6936:0901/033802.662:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[5756:704:0901/033802.677:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[5756:704:0901/033802.677:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2778321, parent pid: 11544
+[8216:368:0901/033802.708:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[8216:368:0901/033802.708:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2778321, parent pid: 5756
+[5756:704:0901/033802.708:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[5756:704:0901/033802.708:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[5756:704:0901/033802.708:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[5756:704:0901/033802.708:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[5756:704:0901/033802.708:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5756:704:0901/033802.708:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[5756:704:0901/033802.708:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[5756:704:0901/033802.708:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[5756:704:0901/033802.724:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[5756:1952:0901/033830.287:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[5756:704:0901/033830.287:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[5756:6544:0901/033830.287:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[5756:704:0901/033830.287:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[11544:6936:0901/033830.287:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[11544:10224:0901/033830.287:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[8216:368:0901/033830.287:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[12216:9464:0901/033830.302:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[10768:9768:0901/083830.443:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[10768:9768:0901/083830.443:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2796349, parent pid: 11632
+[11460:10496:0901/083830.459:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[11460:10496:0901/083830.459:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2796349, parent pid: 10768
+[10768:9768:0901/083830.459:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[10768:9768:0901/083830.459:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[10768:9768:0901/083830.459:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[10768:9768:0901/083830.459:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[10768:9768:0901/083830.459:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10768:9768:0901/083830.459:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10768:9768:0901/083830.459:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[10768:9768:0901/083830.459:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[10768:5668:0901/083830.474:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[268:8580:0901/083830.490:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[268:8580:0901/083830.490:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2796349, parent pid: 10768
+[7548:8372:0901/083830.521:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[7548:8372:0901/083830.521:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2796349, parent pid: 268
+[268:8580:0901/083830.521:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[268:8580:0901/083830.521:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[268:8580:0901/083830.521:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[268:8580:0901/083830.521:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[268:8580:0901/083830.521:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[268:8580:0901/083830.521:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[268:8580:0901/083830.521:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[268:8580:0901/083830.521:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[268:8580:0901/083830.521:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[268:5816:0901/083846.287:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[268:8580:0901/083846.287:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[268:10808:0901/083846.287:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[268:8580:0901/083846.287:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[10768:5668:0901/083846.287:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[10768:9768:0901/083846.287:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[7548:8372:0901/083846.287:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[11460:10496:0901/083846.302:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[8232:3032:0901/133846.458:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[8232:3032:0901/133846.458:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2814365, parent pid: 11632
+[420:4572:0901/133846.490:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[420:4572:0901/133846.490:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2814365, parent pid: 8232
+[8232:3032:0901/133846.490:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[8232:3032:0901/133846.490:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[8232:3032:0901/133846.490:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[8232:3032:0901/133846.490:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[8232:3032:0901/133846.490:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8232:3032:0901/133846.490:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8232:3032:0901/133846.490:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[8232:3032:0901/133846.490:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[8232:11956:0901/133846.490:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[7352:10264:0901/133846.521:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[7352:10264:0901/133846.521:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2814365, parent pid: 8232
+[304:9944:0901/133846.552:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x27c,0x280,0x284,0x258,0x288,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[304:9944:0901/133846.552:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2814365, parent pid: 7352
+[7352:10264:0901/133846.552:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[7352:10264:0901/133846.552:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[7352:10264:0901/133846.552:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[7352:10264:0901/133846.552:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[7352:10264:0901/133846.552:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[7352:10264:0901/133846.552:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[7352:10264:0901/133846.552:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[7352:10264:0901/133846.552:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[7352:10264:0901/133846.552:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[7352:5660:0901/133902.302:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[7352:10264:0901/133902.302:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[7352:11624:0901/133902.302:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[7352:10264:0901/133902.302:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[8232:11956:0901/133902.302:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[8232:3032:0901/133902.302:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[304:9944:0901/133902.302:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[420:4572:0901/133902.318:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[2972:6700:0901/183902.490:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[2972:6700:0901/183902.490:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2832381, parent pid: 11632
+[9896:11480:0901/183902.521:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[9896:11480:0901/183902.521:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2832381, parent pid: 2972
+[2972:6700:0901/183902.521:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[2972:6700:0901/183902.521:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[2972:6700:0901/183902.521:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[2972:6700:0901/183902.521:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[2972:6700:0901/183902.521:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[2972:6700:0901/183902.521:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[2972:6700:0901/183902.521:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[2972:6700:0901/183902.521:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[2972:4284:0901/183902.521:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[1352:8292:0901/183902.537:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[1352:8292:0901/183902.537:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2832381, parent pid: 2972
+[4528:2628:0901/183902.568:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[4528:2628:0901/183902.568:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2832381, parent pid: 1352
+[1352:8292:0901/183902.568:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[1352:8292:0901/183902.568:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[1352:8292:0901/183902.568:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[1352:8292:0901/183902.568:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[1352:8292:0901/183902.568:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[1352:8292:0901/183902.568:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[1352:8292:0901/183902.568:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[1352:8292:0901/183902.584:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[1352:8292:0901/183902.584:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[1352:9972:0901/183917.693:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[1352:8292:0901/183917.693:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[1352:2324:0901/183917.693:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[1352:8292:0901/183917.693:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[2972:4284:0901/183917.693:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[2972:6700:0901/183917.693:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[4528:2628:0901/183917.693:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[9896:11480:0901/183917.709:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[10840:4676:0901/233917.847:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[10840:4676:0901/233917.847:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2850396, parent pid: 11632
+[10964:9872:0901/233917.878:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[10964:9872:0901/233917.878:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2850396, parent pid: 10840
+[10840:4676:0901/233917.878:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[10840:4676:0901/233917.878:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[10840:4676:0901/233917.878:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[10840:4676:0901/233917.878:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[10840:4676:0901/233917.878:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10840:4676:0901/233917.878:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10840:4676:0901/233917.878:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[10840:4676:0901/233917.878:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[10840:10884:0901/233917.878:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[2228:3660:0901/233917.894:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[2228:3660:0901/233917.894:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2850396, parent pid: 10840
+[9252:11536:0901/233917.925:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[9252:11536:0901/233917.925:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2850396, parent pid: 2228
+[2228:3660:0901/233917.925:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[2228:3660:0901/233917.925:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[2228:3660:0901/233917.925:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[2228:3660:0901/233917.925:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[2228:3660:0901/233917.925:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[2228:3660:0901/233917.925:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[2228:3660:0901/233917.925:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[2228:3660:0901/233917.925:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[2228:3660:0901/233917.925:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[2228:11100:0901/233933.909:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[2228:3660:0901/233933.909:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[2228:2412:0901/233933.909:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[2228:3660:0901/233933.909:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[10840:10884:0901/233933.909:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[10840:4676:0901/233933.909:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[9252:11536:0901/233933.909:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[10964:9872:0901/233933.925:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[10008:10052:0902/043934.081:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake-all --system
+[10008:10052:0902/043934.081:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2868412, parent pid: 11632
+[6496:8432:0902/043934.113:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[6496:8432:0902/043934.113:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2868412, parent pid: 10008
+[10008:10052:0902/043934.113:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[10008:10052:0902/043934.113:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[10008:10052:0902/043934.113:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[10008:10052:0902/043934.113:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[10008:10052:0902/043934.113:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10008:10052:0902/043934.113:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[10008:10052:0902/043934.113:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[10008:10052:0902/043934.113:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[10008:7876:0902/043934.113:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system`
+[9776:2624:0902/043934.144:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system
+[9776:2624:0902/043934.144:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2868412, parent pid: 10008
+[6408:11780:0902/043934.159:VERBOSE1:chrome\updater\updater.cc:320] Version: 141.0.7340.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7340.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff679f6baf8,0x7ff679f6bb04,0x7ff679f6bb10
+[6408:11780:0902/043934.159:VERBOSE1:chrome\updater\updater.cc:323] OS version: 10.0.19045.6093, System uptime (seconds): 2868412, parent pid: 9776
+[9776:2624:0902/043934.159:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[9776:2624:0902/043934.159:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[9776:2624:0902/043934.159:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[9776:2624:0902/043934.159:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[9776:2624:0902/043934.175:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9776:2624:0902/043934.175:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9776:2624:0902/043934.175:VERBOSE1:chrome\updater\updater.cc:91] Crash reporting initialized.
+[9776:2624:0902/043934.175:VERBOSE1:chrome\updater\updater.cc:141] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[9776:2624:0902/043934.175:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[9776:1228:0902/043950.628:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[9776:2624:0902/043950.628:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[9776:6720:0902/043950.628:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[9776:2624:0902/043950.628:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake) returned 0.
+[10008:7876:0902/043950.628:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7340.0\updater.exe" --wake --system` exited 0
+[10008:10052:0902/043950.628:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--wake-all) returned 0.
+[6408:11780:0902/043950.628:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[6496:8432:0902/043950.644:VERBOSE1:chrome\updater\updater.cc:328] UpdaterMain (--crash-handler) returned 0.
+[8864:5056:0902/093950.816:VERBOSE1:chrome\updater\updater.cc:392] Version: 141.0.7376.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\updater.exe" --wake-all --system
+[8864:5056:0902/093950.816:VERBOSE1:chrome\updater\updater.cc:395] OS version: 10.0.19045.6093, System uptime (seconds): 2886429, parent pid: 11632
+[8864:5056:0902/093950.816:VERBOSE1:chrome\updater\updater.cc:319] available: 9925064K, total: 14482932K
+[5472:6756:0902/093950.848:VERBOSE1:chrome\updater\updater.cc:392] Version: 141.0.7376.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7376.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff62abc4bd8,0x7ff62abc4be4,0x7ff62abc4bf0
+[5472:6756:0902/093950.848:VERBOSE1:chrome\updater\updater.cc:395] OS version: 10.0.19045.6093, System uptime (seconds): 2886429, parent pid: 8864
+[5472:6756:0902/093950.848:VERBOSE1:chrome\updater\updater.cc:319] available: 9923032K, total: 14482932K
+[8864:5056:0902/093950.848:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[8864:5056:0902/093950.848:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[8864:5056:0902/093950.848:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[8864:5056:0902/093950.848:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[8864:5056:0902/093950.848:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8864:5056:0902/093950.848:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\Crashpad\settings.dat: Access is denied. (0x5)
+[8864:5056:0902/093950.848:VERBOSE1:chrome\updater\updater.cc:95] Crash reporting initialized.
+[8864:5056:0902/093950.848:VERBOSE1:chrome\updater\updater.cc:145] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[8864:8088:0902/093950.848:VERBOSE1:chrome\updater\app\app_wakeall.cc:57] Launching `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\updater.exe" --wake --system`
+[9544:7664:0902/093950.879:VERBOSE1:chrome\updater\updater.cc:392] Version: 141.0.7376.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\updater.exe" --wake --system
+[9544:7664:0902/093950.879:VERBOSE1:chrome\updater\updater.cc:395] OS version: 10.0.19045.6093, System uptime (seconds): 2886429, parent pid: 8864
+[9544:7664:0902/093950.879:VERBOSE1:chrome\updater\updater.cc:319] available: 9920156K, total: 14482932K
+[10648:9644:0902/093950.910:VERBOSE1:chrome\updater\updater.cc:392] Version: 141.0.7376.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\updater.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=141.0.7376.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff62abc4bd8,0x7ff62abc4be4,0x7ff62abc4bf0
+[10648:9644:0902/093950.910:VERBOSE1:chrome\updater\updater.cc:395] OS version: 10.0.19045.6093, System uptime (seconds): 2886429, parent pid: 9544
+[10648:9644:0902/093950.910:VERBOSE1:chrome\updater\updater.cc:319] available: 9918396K, total: 14482932K
+[9544:7664:0902/093950.910:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[9544:7664:0902/093950.910:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[9544:7664:0902/093950.910:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[9544:7664:0902/093950.910:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:77] usage stats enabled by app {8A69D345-D564-463C-AFF1-A69D9E530F96}
+[9544:7664:0902/093950.910:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9544:7664:0902/093950.910:ERROR:third_party\crashpad\crashpad\util\file\file_io_win.cc:181] CreateFile C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\Crashpad\settings.dat: Access is denied. (0x5)
+[9544:7664:0902/093950.910:VERBOSE1:chrome\updater\updater.cc:95] Crash reporting initialized.
+[9544:7664:0902/093950.910:VERBOSE1:chrome\updater\updater.cc:145] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[9544:7664:0902/093950.910:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:156] Run
+[9544:1548:0902/093957.035:VERBOSE2:chrome\updater\ipc\update_service_internal_proxy_win.cc:65] Run result 0.
+[9544:7664:0902/093957.035:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:148] ~UpdateServiceInternalProxyImpl
+[9544:8928:0902/093957.035:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[9544:7664:0902/093957.035:VERBOSE1:chrome\updater\updater.cc:403] UpdaterMain (--wake) returned 0.
+[8864:8088:0902/093957.035:VERBOSE1:chrome\updater\app\app_wakeall.cc:67] `"C:\Program Files (x86)\Google\GoogleUpdater\141.0.7376.0\updater.exe" --wake --system` exited 0
+[8864:5056:0902/093957.051:VERBOSE1:chrome\updater\updater.cc:403] UpdaterMain (--wake-all) returned 0.
+[10648:9644:0902/093957.051:VERBOSE1:chrome\updater\updater.cc:403] UpdaterMain (--crash-handler) returned 0.
+[5472:6756:0902/093957.051:VERBOSE1:chrome\updater\updater.cc:403] UpdaterMain (--crash-handler) returned 0.
